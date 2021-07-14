@@ -1,0 +1,7 @@
+ok
+Father almost   
+Son done!       
+ok
+Hommer almost   
+Grandfather done
+s.id = 5
