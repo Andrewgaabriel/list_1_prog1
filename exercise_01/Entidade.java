@@ -20,9 +20,7 @@ class Entidade {
     }
 
     public void setPosicao(Posicao p) {
-        
-        this.posicao.setX(p.getX);
-        this.posicao.setY(p.getY);
+        this.posicao = p;
     }
 
 }

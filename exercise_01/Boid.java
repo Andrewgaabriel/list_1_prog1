@@ -20,7 +20,6 @@ class Boid extends Entidade {
     }
 
     public void setVelocidade(Forca f) {
-        this.velocidade.setA(f.getA);
-        this.velocidade.setB(f.getB);
+        this.velocidade = f;
     }
 }

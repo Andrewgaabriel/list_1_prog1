@@ -20,8 +20,8 @@ class Forca {
         this.b = b;
     }
 
-/*     double tamanho() {
-
-    } */
+    double tamanho() {
+        return a*b;
+    }
     
 }
